@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"github.codespaces.defaultExtensions": [
+			"GitHub.codespaces",
+			"GitHub.vscode-pull-request-github"
+		],
+		"notebook.output.scrolling": true,
+		"notebook.output.textLineLimit": 2000,
+		"notebook.output.wordWrap": false,
+		"git.ignoreLimitWarning": true
+	}
+}
